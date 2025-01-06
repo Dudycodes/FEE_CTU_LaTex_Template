@@ -19,4 +19,5 @@ Obsahuje:
 
 # TODO
 - code blocks
+- zkrotit knihovny
 

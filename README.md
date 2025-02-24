@@ -2,6 +2,8 @@
 
 Template na laborky, semestrálky, projekty,... feel free to use.
 
+> Pro serióznější výstup použijte prosím něco jiného - [třeba](https://github.com/tohecz/ctuthesis)
+
 Obsahuje:
 - Titulní stranu
 - Generování obsahu
